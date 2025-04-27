@@ -35,7 +35,7 @@ The tool expects a CSV file with the following columns:
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/finance-automation-tool.git
+git clone https://github.com/shubh4mk/Personal-Finance-Automation-Tool.git
 cd finance-automation-tool
 ```
 
