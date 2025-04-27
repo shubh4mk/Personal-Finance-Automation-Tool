@@ -60,6 +60,28 @@ streamlit run app.py
 ---
 
 ## 📊 Screenshots
+1. Upload Data  
+<img src="DemoImages/Upload.png" alt="Upload Data" width="800">
+
+---
+
+2. Add Categories  
+<img src="DemoImages/AddingCategories.png" alt="Add Categories" width="800">
+
+---
+
+3. Expenses Overview  
+<img src="DemoImages/Expense.png" alt="Expenses Overview" width="800">
+
+---
+
+4. Categories Added  
+<img src="DemoImages/CategoriesAdded.png" alt="Categories Added" width="800">
+
+---
+
+5. Graphs and Visualizations  
+<img src="DemoImages/Graphs.png" alt="Graphs and Visualizations" width="800">
 
 
 
