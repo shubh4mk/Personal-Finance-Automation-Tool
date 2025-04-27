@@ -81,7 +81,7 @@ streamlit run app.py
 ---
 
 5. Graphs and Visualizations  
-<img src="DemoImages/Graphs.png" alt="Graphs and Visualizations" width="800">
+<img src="DemoImages/Graph.png" alt="Graphs and Visualizations" width="800">
 
 
 
